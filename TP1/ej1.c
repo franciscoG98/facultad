@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-int main() {
+
+int main(int arg, char *argv[]) {
     char nombre[20];
     char apellido[20];
     int edad;
