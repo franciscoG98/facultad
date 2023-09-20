@@ -61,3 +61,42 @@ según las siguientes condiciones:
 • Efectivo (opcion:0) 10% de descuento
 • Tarjeta (opción:1) 15% de recargo
 
+## TP4
+
+1. Dados 50 números enteros positivos, informar la cantidad de los números mayores que 100 y la suma de los
+números menores que 100.
+Ayuda: para generar los valores aleatorios utilizar la función de librería “rand()” stdlib.h .
+
+2. Realizar la operación división usando la operación resta. La misma consiste en restar repetidas veces el divisor
+hasta llegar a cero o un número que no puede ser restado. Comprobar que tanto dividendo, como divisor
+sean mayores a cero. Informar el resultado y el resto. Ejemplo:
+12/3 es igual a:
+
+    a. 12-3=9
+
+    b. 9-3=6
+    
+    c. 6-3=3
+
+    d. 3-3=0
+
+El resultado es 4, que se corresponde con el número de veces que resto.
+
+3. Mostrar por pantalla los números pares comprendidos entre 50 y 20. Indicar la cantidad de números hallados.
+Ayuda: para determinar si un número es par podrá valerse del operador de modulo (%)
+
+4. Se ingresa por teclado la cantidad de agua caída, en milímetros día a día durante una semana. Se pide
+determinar el día de mayor lluvia, el de menor y el promedio.
+
+5. Se registran 10 empleados de una empresa Número de legajo, sueldo, sexo(1=femenino y 2=masculino).Se
+pide:
+
+    • Mostrar el total de hombres y mujeres.
+
+    • Mostrar el total de sueldo de hombres y mujeres.
+
+    • Mostrar el mayor y menor sueldo de hombres
+
+    • Mostrar el mayor y menor sueldo de mujeres
+
+    • Mostrar cuantas mujeres ganan más de $500 pesos y cuantos hombres ganan menos de $400.
