@@ -1,3 +1,5 @@
+// puede ver mis trabajos en github
+// https://github.com/franciscoG98/facultad
 #include <stdio.h>
 #include <stdlib.h>
 

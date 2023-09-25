@@ -11,16 +11,20 @@ int main() {
     printf("Ingrese el numero por el que desea dividir: ");
     scanf("%i", &divisor);
 
-    while(dividendo >= divisor) {
-        if(dividendo % divisor == 0) {
-            dividendo -= divisor;
-            resultado++;
-        } else {
-            dividendo -= divisor;
-            resultado++;
-            resto = dividendo;
+    if((dividendo > 0) && (divisor < 0)) {
+
+        while(dividendo >= divisor) {
+            if(dividendo % divisor == 0) {
+                dividendo -= divisor;
+                resultado++;
+            } else {
+                dividendo -= divisor;
+                resultado++;
+                resto = dividendo;
+            }
         }
     }
+
 
     printf("el resultado de la division es: %i y el resto es %i \n", resultado, resto);
 
