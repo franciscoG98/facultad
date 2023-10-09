@@ -100,3 +100,23 @@ pide:
     • Mostrar el mayor y menor sueldo de mujeres
 
     • Mostrar cuantas mujeres ganan más de $500 pesos y cuantos hombres ganan menos de $400.
+
+## TP5
+
+1. Mostrar el mayor y el menor de una serie de 10 números que se introducen por teclado.
+
+2. Calcular el promedio de 10 números enteros positivos que se introducen por teclado.
+
+3. Calcular la factorial de un número entero positivo, mayor a cero, ingresado por teclado. Ejemplo:
+
+1! = 1
+
+2! = 1 * 2 = 2
+
+3! = 1 * 2 * 3 = 6
+
+4! = 1 * 2 * 3 * 4 = 24
+
+5! = 1 * 2 * 3 * 4 * 5 = 120
+
+6! = 1 * 2 * 3 * 4 * 5 * 6 = 720
