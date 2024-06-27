@@ -1,4 +1,4 @@
-# Programación Estructura: Repaso vectores
+# TP 1 (C) - Programación Estructura: Repaso vectores
 
 ## Ejercicio Nº1: La poceada chaqueña
 
